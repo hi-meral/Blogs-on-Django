@@ -1,1 +1,2 @@
-# django_project
+# Blog Project
+Blog management, User management
